@@ -1063,6 +1063,7 @@ img {
 }
 #footer div .connect a {
 	background: url(icons.png) no-repeat;
+
 	display: block;
 	float: left;
 	height: 30px;
