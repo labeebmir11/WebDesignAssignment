@@ -847,7 +847,7 @@ img {
 	width: 160px;
 }
 #body.contact div.body {
-	background: url(../images/map.jpg) no-repeat center top #b5aaad;
+	background: url(/images/map.jpg) no-repeat center top #b5aaad;
 	margin: 0;
 	max-width: none;
 	padding: 0;
@@ -1062,7 +1062,7 @@ img {
 	width: 240px;
 }
 #footer div .connect a {
-	background: url(../images/icons.png) no-repeat;
+	background: url(/images/icons.png) no-repeat;
 	display: block;
 	float: left;
 	height: 30px;
