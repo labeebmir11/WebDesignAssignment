@@ -1266,6 +1266,17 @@ h2{
     width: 100%;
     
 }
+#footer div .connect a {
+	background: url(icons.png) no-repeat;
+
+	display: block;
+	float: left;
+	height: 30px;
+	margin: 0 15px;
+	padding: 0;
+	text-indent: -99999px;
+	width: 30px;
+}
 #footer div .connect a.googleplus {
 	background-position: 0 -32px;
 }
