@@ -1053,7 +1053,8 @@ img {
 	width: 240px;
 }
 #footer div .connect a {
-	background: url(../images/icons.png) no-repeat;
+	background: url(icons.png) no-repeat;
+
 	display: block;
 	float: left;
 	height: 30px;
@@ -1062,42 +1063,6 @@ img {
 	text-indent: -99999px;
 	width: 30px;
 }
-#footer div .connect a.facebook {
-    background-position: 0 -32px;
-   
-}
-#footer div .connect a.facebook img {
-    display: block;
-    position: absolute;
-    margin: auto;
-    height: 25px;
-   
-}
-/*img{
-    display: block;
-    position: absolute;
-    margin: auto;
-    height: 25px;
-}*/
-
-#footer div .connect a.gmail {
+#footer div .connect a.googleplus {
 	background-position: 0 -32px;
-}
-#footer div .connect a.gmail img {
-    display: block;
-    position: absolute;
-    margin: auto;
-    height: 25px;
-   
-}
-
-#footer div .connect a.twitter {
-	background-position: 0 -96px;
-}
-#footer div .connect a.twitter img {
-    display: block;
-    position: absolute;
-    margin: auto;
-    height: 25px;
-   
 }
