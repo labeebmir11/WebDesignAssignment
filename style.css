@@ -104,9 +104,7 @@ img {
 	text-align: center;
 	text-transform: uppercase;
 }
-#header div ul li.selected a, #header div ul li.selected a:hover {
-	color: #cb3362;
-}
+
 #header div ul li a:hover, #header div ul li.menu:hover ul li a {
 	color: #3d7485;
 }
