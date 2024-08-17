@@ -1266,3 +1266,6 @@ h2{
     width: 100%;
     
 }
+#footer div .connect a.googleplus {
+	background-position: 0 -32px;
+}
