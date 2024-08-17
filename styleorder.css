@@ -1266,8 +1266,17 @@ h2{
     width: 100%;
     
 }
+#footer div .connect {
+	display: block;
+	height: 30px;
+	margin: 0 auto;
+	max-width: none;
+	overflow: hidden;
+	padding: 0;
+	width: 240px;
+}
 #footer div .connect a {
-	background: url(../icons.png) no-repeat;
+	background: url(icons.png) no-repeat;
 
 	display: block;
 	float: left;
