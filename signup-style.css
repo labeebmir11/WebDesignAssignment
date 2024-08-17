@@ -35,15 +35,8 @@ body {
     text-decoration: none;
     font-weight: 650;
 }
-.navbar{
-list-style:none;
-}
-.navbar li{
-    display:inline-block;
-    padding:0px 20px;
-}
 .navbar a {
-    
+    position:relative;
     font-size: 18px;
     color: #fff;
     font-weight: 500;
